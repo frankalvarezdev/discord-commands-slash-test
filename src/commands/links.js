@@ -1,5 +1,6 @@
+import { MessageEmbed } from 'discord.js';
 import Links from "./../lib/api.js";
-import {} from 'dotenv/config';
+import { } from 'dotenv/config';
 
 export default {
     name: 'links',

@@ -1,4 +1,4 @@
-import { Client, Intents, MessageEmbed } from 'discord.js';
+import { Client, Intents } from 'discord.js';
 import links from './commands/links.js';
 import ping from './commands/ping.js';
 import {} from 'dotenv/config';
