@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "dev": {
+            "desc": "run bot",
+            "cmd": "node src/main.js"
+        }
+    }
+}

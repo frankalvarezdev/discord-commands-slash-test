@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord-slash-commands-client": "^1.2.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  },
+  "type": "module",
+  "name": "discordcs",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
